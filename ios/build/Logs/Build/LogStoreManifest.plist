@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7100174D-A499-419C-BB62-4316EDC1E0BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7100174D-A499-419C-BB62-4316EDC1E0BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>youtube_demo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>youtube_demo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project youtube_demo with scheme youtube_demo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>562136975.68383002</real>
+			<key>timeStoppedRecording</key>
+			<real>562136985.986884</real>
+			<key>title</key>
+			<string>Building project youtube_demo with scheme youtube_demo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7100174D-A499-419C-BB62-4316EDC1E0BB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
